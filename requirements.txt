@@ -1,0 +1,16 @@
+fuzzywuzzy
+matplotlib
+scikit-learn
+scikit-image
+numpy
+opencv-python
+Pillow
+python-Levenshtein
+tensorflow
+tensorflow-gpu
+pyyaml
+absl-py
+tfds-nightly
+pandas
+seaborn
+six

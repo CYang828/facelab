@@ -1,0 +1,6 @@
+SEARCH_FEATURE = 'search'
+IMAGE_FEATURE = 'images'
+LABEL_FEATURE = 'labels'
+BBOX_FEATURE = 'bboxs'
+LANDMARK_TEATURE = 'lanmarks'
+CLASSFICATION_FEATURE = 'classifications'
